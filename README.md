@@ -1,8 +1,13 @@
 # BT-CF
 宝塔配合fakeipcf脚本自动提交恶意攻击IP到cf，精准屏蔽
 
+宝塔收费版防火墙效果有这好？有这还需要杜甫？？？？
+
+
 先配置下获取用户真实IP
 相关教程
+
+切记，一定要配置好获取用户真实IP，不然拉黑的都是cf的IP。。。。。。。
 
 宝塔面板安装LNMP存放nginx配置文件位置在：
 /www/server/nginx/conf/nginx.conf
